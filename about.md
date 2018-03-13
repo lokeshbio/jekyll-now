@@ -6,19 +6,19 @@ permalink: /about/
 
 I am Lokeshwaran manoharan, a post-doc working at the Archaea Biology department [@Archaea_UniVie](https://twitter.com/Archaea_Vienna). I am very much interested in environmental microbiology, espcially in microbial ecology and genomics. I have my resume below:
 
-# EDUCATION
+#### EDUCATION
   • PhD in biology from Dec-2011 to Apr-2016 at Lund University, Lund, Sweden.
       Dissertation title: Diversity of soil microbial communities in the perspective of targeting functional genes.
   • M.S in bioinformatics and systems biology from 2009 to 2011 at Chalmers University of
     Technology, Gothenburg, Sweden.
   • B.Tech in industrial biotechnology from 2004 to 2008 at Anna University, Chennai, India.
 
-# WORK EXPERIENCE
+#### WORK EXPERIENCE
   • Research assistant from Aug-2016 to Feb-2016 at Lund University, Lund, Sweden. I worked in
     the soil ecology group under my PhD supervisor as a bioinformatician, analyzing the
     metratranscriptomics data that was generated in the research group.
 
-# RESEARCH EXPERIENCE
+#### RESEARCH EXPERIENCE
   Target enrichment strategy for genes in microbial communities
     • Developed a method to target functional genes of interest in metagenomic samples.
     • Established a pipeline to generate oligonucleotide probes to target genes from communities.
@@ -31,12 +31,12 @@ I am Lokeshwaran manoharan, a post-doc working at the Archaea Biology department
     • Analyzed bacterial community composition using 16S rDNA amplicon markers in soils.
     • Analyzed fungal communities using ITS (EMF) and 28S (AMF) amplicons in soils.
 
-# TEACHING EXPERIENCE
+#### TEACHING EXPERIENCE
   • Teaching assistant in “2016 Workshop on Genomics” in Cesky Krumlov, Czech Republic.
   • Taught in bioinformatics courses such as genomics, metatranscriptomics, PERL and python.
   • Taught in ecological courses such as terrestrial ecology and basic molecular genetics.
 
-# SKILLS
+#### SKILLS
   • Proficiency in PERL, Python, R, Matlab and SQLite. Acquired a great deal of experiences in
     variety of genomics/metagenomics and transcriptomics/metatranscriptomics tools.
   • Ample experiences with DNA/RNA extraction, PCR, sequence capture, NGS library preparation
@@ -44,7 +44,7 @@ I am Lokeshwaran manoharan, a post-doc working at the Archaea Biology department
 
 ### More Information
 
-Coming to my real life, I very much like to play volleyball espcially beach and I love movies! 
+Coming to my real life, I very much like to play volleyball espcially beach and I love movies! I am training in a hobby volleyball team all through the year and we train once/twice per week and I train beach volleyball during the summer more intensively :) 
 
 ### Contact me
 
