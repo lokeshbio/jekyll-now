@@ -21,19 +21,20 @@ I am Lokeshwaran manoharan, a post-doc working at the Archaea Biology department
       metratranscriptomics data that was generated in the research group.
 
 ###### RESEARCH EXPERIENCE
-  Target enrichment strategy for genes in microbial communities
-    • Developed a method to target functional genes of interest in metagenomic samples. 
-    • Established a pipeline to generate oligonucleotide probes to target genes from communities.
-    • Validated the method in lab using DNA from soil samples to target enzymatic genes.
+
+     Target enrichment strategy for genes in microbial communities
+        • Developed a method to target functional genes of interest in metagenomic samples. 
+        • Established a pipeline to generate oligonucleotide probes to target genes from communities.
+        • Validated the method in lab using DNA from soil samples to target enzymatic genes.
     
-  Functional diversity in agricultural soils
-    • Analyzed the diversity of SOM degrading enzymes in different land-use management soils.
-    • Measured activity of these enzymes through transcriptomics combined with target strategy.
-    • Measured growth of bacterial and fungal communities using incorporation methods.
+     Functional diversity in agricultural soils
+        • Analyzed the diversity of SOM degrading enzymes in different land-use management soils.
+        • Measured activity of these enzymes through transcriptomics combined with target strategy.
+        • Measured growth of bacterial and fungal communities using incorporation methods.
   
-  Species diversity in agricultural soils
-    • Analyzed bacterial community composition using 16S rDNA amplicon markers in soils.
-    • Analyzed fungal communities using ITS (EMF) and 28S (AMF) amplicons in soils.
+     Species diversity in agricultural soils
+        • Analyzed bacterial community composition using 16S rDNA amplicon markers in soils.
+        • Analyzed fungal communities using ITS (EMF) and 28S (AMF) amplicons in soils.
 
 ###### TEACHING EXPERIENCE
     • Teaching assistant in “2016 Workshop on Genomics” in Cesky Krumlov, Czech Republic.
