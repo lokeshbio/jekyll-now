@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am Lokeshwaran manoharan, a post-doc working at the Archaea Biology department [@Archaea_UniVie](https://twitter.com/Archaea_Vienna). I am very much interested in environmental microbiology, espcially in microbial ecology and genomics. I have my resume below:
+I am Lokeshwaran manoharan, a post-doc working at the Archaea Biology department [@Archaea_UniVie](https://twitter.com/Archaea_Vienna). I am very much interested in environmental microbiology, espcially in microbial ecology and genomics. I have my furnished some of the details of my Resume below:
 
 ###### EDUCATION
     • PhD in biology from Dec-2011 to Apr-2016 at Lund University, Lund, Sweden.
