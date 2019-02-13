@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am Lokeshwaran manoharan, a post-doc working at the Archaea Biology department [@Archaea_UniVie](https://twitter.com/Archaea_Vienna). I am very much interested in environmental microbiology, espcially in microbial ecology and genomics. I have my furnished some of the details of my Resume below:
+I am Lokeshwaran manoharan, a Bioinformatician by training and currenly working as one at [NBIS](https://nbis.se/). I amenthusiastic about computational tools and techniques to answer different biological questions. I have mainly worked with microbiology projects in terms of their ecology and evolution and they always fascinate me.  
 
 ###### EDUCATION
     • PhD in biology from Dec-2011 to Apr-2016 at Lund University, Lund, Sweden.
@@ -19,6 +19,8 @@ I am Lokeshwaran manoharan, a post-doc working at the Archaea Biology department
     • Research assistant from Aug-2016 to Feb-2016 at Lund University, Lund, Sweden. I worked in
       the soil ecology group under my PhD supervisor as a bioinformatician, analyzing the
       metratranscriptomics data that was generated in the research group.
+      
+    • PostDoc position at the Archaea Biology department [@Archaea_UniVie](https://twitter.com/Archaea_Vienna) between April-2017 to           January-2019. I mainly worked with archaea genomics in particular the Asgard archaea.   
 
 ###### RESEARCH EXPERIENCE
 
