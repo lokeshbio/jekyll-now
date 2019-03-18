@@ -6,7 +6,7 @@ permalink: /about/
 
 I am Lokeshwaran manoharan, a Bioinformatician by training and currenly working as one at [NBIS](https://nbis.se/). I amenthusiastic about computational tools and techniques to answer different biological questions. I have mainly worked with microbiology projects in terms of their ecology and evolution and they always fascinate me.  
 
-###### EDUCATION
+#### EDUCATION
     • PhD in biology from Dec-2011 to Apr-2016 at Lund University, Lund, Sweden.
         Dissertation title: Diversity of soil microbial communities in the perspective of targeting functional genes.
       
@@ -15,14 +15,14 @@ I am Lokeshwaran manoharan, a Bioinformatician by training and currenly working 
     
     • B.Tech in industrial biotechnology from 2004 to 2008 at Anna University, Chennai, India.
 
-###### WORK EXPERIENCE
+#### WORK EXPERIENCE
     • Research assistant from Aug-2016 to Feb-2016 at Lund University, Lund, Sweden. I worked in
       the soil ecology group under my PhD supervisor as a bioinformatician, analyzing the
       metratranscriptomics data that was generated in the research group.
       
-    • PostDoc position at the Archaea Biology department [@Archaea_UniVie](https://twitter.com/Archaea_Vienna) between April-2017 to           January-2019. I mainly worked with archaea genomics in particular the Asgard archaea.   
+    • PostDoc position at the Archaea Biology department [Archaea_UniVie](https://twitter.com/Archaea_Vienna/) between April-2017 to January-2019. I mainly worked with archaeal genomics in particular, the Asgard archaea.   
 
-###### RESEARCH EXPERIENCE
+#### RESEARCH EXPERIENCE
 
      Target enrichment strategy for genes in microbial communities
         • Developed a method to target functional genes of interest in metagenomic samples. 
@@ -38,12 +38,12 @@ I am Lokeshwaran manoharan, a Bioinformatician by training and currenly working 
         • Analyzed bacterial community composition using 16S rDNA amplicon markers in soils.
         • Analyzed fungal communities using ITS (EMF) and 28S (AMF) amplicons in soils.
 
-###### TEACHING EXPERIENCE
+#### TEACHING EXPERIENCE
     • Teaching assistant in “2016 Workshop on Genomics” in Cesky Krumlov, Czech Republic.
     • Taught in bioinformatics courses such as genomics, metatranscriptomics, PERL and python.
     • Taught in ecological courses such as terrestrial ecology and basic molecular genetics.
 
-###### SKILLS
+#### SKILLS
     • Proficiency in PERL, Python, R, Matlab and SQLite. Acquired a great deal of experiences in
       variety of genomics/metagenomics and transcriptomics/metatranscriptomics tools.
     • Ample experiences with DNA/RNA extraction, PCR, sequence capture, NGS library preparation
